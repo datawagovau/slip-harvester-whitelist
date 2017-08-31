@@ -62,3 +62,6 @@ https://services.slip.wa.gov.au/arcgis/rest/services/Landgate_Subscription_Servi
 https://services.slip.wa.gov.au/arcgis/rest/services/Landgate_Subscription_Services/Tenure/MapServer
 https://services.slip.wa.gov.au/arcgis/rest/services/Landgate_Restricted_Services/Native_Title/MapServer
 https://services.slip.wa.gov.au/arcgis/rest/services/Landgate_Restricted_Services/GPR/MapServer
+https://services.slip.wa.gov.au/arcgis/rest/services/Landgate_Restricted_Services/Roads/MapServer
+https://services.slip.wa.gov.au/arcgis/rest/services/FPC_Restricted_Services/FPC_Restricted_Services/MapServer
+https://services.slip.wa.gov.au/arcgis/rest/services/WP_Public_Secure_Services/NCMT_Public_Secure_Services/MapServer
