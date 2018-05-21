@@ -62,7 +62,7 @@ https://services.slip.wa.gov.au/arcgis/rest/services/DMIRS_Restricted_Services/D
 https://services.slip.wa.gov.au/arcgis/rest/services/DPIRD_Restricted_Services/DPIRD_Restricted_Services/MapServer 
 https://services.slip.wa.gov.au/arcgis/rest/services/DBCA_Restricted_Services/DBCA_Restricted_WFS/MapServer 
 https://services.slip.wa.gov.au/arcgis/rest/services/DPLH_Restricted_Services/DPLH_Restricted_LPS_Services/MapServer
-https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Fisheries_Guide/MapServer 
-https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Capture_WA/MapServer 
+https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/DPIRD_Fisheries_Guide/MapServer
+https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Capture_WA/MapServer
 https://services.slip.wa.gov.au/arcgis/rest/services/DFES_Restricted_Services/DFES_Restricted_Authorised_Incident_Mapping/MapServer
 https://services.slip.wa.gov.au/arcgis/rest/services/SLIP_Public_Services/Historic_Imagery/MapServer
