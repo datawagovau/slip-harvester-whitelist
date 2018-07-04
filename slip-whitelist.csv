@@ -65,4 +65,13 @@ https://services.slip.wa.gov.au/arcgis/rest/services/DPLH_Restricted_Services/DP
 https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/DPIRD_Fisheries_Guide/MapServer
 https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Capture_WA/MapServer
 https://services.slip.wa.gov.au/arcgis/rest/services/DFES_Restricted_Services/DFES_Restricted_Authorised_Incident_Mapping/MapServer
-https://services.slip.wa.gov.au/arcgis/rest/services/SLIP_Public_Services/Historic_Imagery/MapServer
+https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Historic_Imagery/MapServer
+https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Defense/MapServer
+https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Climate/MapServer
+https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Satellites_and_Space/MapServer
+https://services.slip.wa.gov.au/public/rest/services/SLIP_Public_Services/Disaster/MapServer
+https://services.slip.wa.gov.au/arcgis/rest/services/Landgate_v2_Subscription_Services/Administrative_Boundaries/MapServer
+https://services.slip.wa.gov.au/arcgis/rest/services/Landgate_v2_Subscription_Services/Cadastral/MapServer
+https://services.slip.wa.gov.au/arcgis/rest/services/Landgate_v2_Subscription_Services/Crown_Reserves/MapServer
+https://services.slip.wa.gov.au/arcgis/rest/services/Landgate_v2_Subscription_Services/Property_Street_Address/MapServer
+https://services.slip.wa.gov.au/arcgis/rest/services/Landgate_v2_Subscription_Services/Tenure/MapServer
