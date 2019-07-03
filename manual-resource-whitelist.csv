@@ -1,72 +1,8 @@
 package_id package_name
-ffab1998-e128-47c5-85b3-0a73cf2947b8	Name
-fbf3ca75-8b0e-4776-9966-1574cbb3ba50	Name
-f021cba3-9916-4471-9e7c-c96b0be70a5a	Name
-ee40dcf6-84ef-48c0-84fd-cf5ae307cd5b	Name
-e93342fc-0126-4326-9755-390d2f4bf04a	Name
-e4640fa0-5fbd-4c4a-87ae-3da0470aa624	Name
-e213b8ab-e89b-4d23-a122-369d3d58fcd3	Name
-e90b408e-00d6-4e04-ae8c-af4f63bb4a56	Name
-e8b3e433-8ff1-4fd7-b326-73dfae6da43d	Name
-e07ea70d-2e96-4168-bf0c-eb9486480e1f	Name
-dec4abc1-77b6-4098-894a-ef82790a9a08	Name
-de76ddd8-43e6-4326-8e8b-b5f861bfc905	Name
-dde120f8-1a09-4cea-b88b-d39b056f397d	Name
-db2f0baa-1cff-4e3b-8caa-d1458fad3118	Name
-d577c31d-abc8-4a07-8cb8-0f4ebfa325c0	Name
-ca52f0ad-5705-44ae-84c0-9e5551471997	Name
-c4d38c7b-d86d-4755-8ef6-dec42226bdb5	Name
-c01d14ee-eb23-48e9-a624-a2cd6dac6ab7	Name
-be57f9ce-8dc7-4c61-8de2-71aa9845c9e6	Name
-be2dee2c-e315-42fe-8bbc-ed9899b64959	Name
-bd528c56-5fd0-4341-b46a-1c14c352529d	Name
-b94ecf75-3776-4250-9664-9f731484d6a2	Name
-b6c7188a-91df-4bae-a85c-011eb71abfd2	Name
-af6ea201-5e10-4de1-b325-3f02ed273354	Name
-ae4e5705-09b9-4715-bc49-8c93d37159d5	Name
-abd77f09-bf98-4ed9-847c-6a8a3be73c13	Name
-ab580d55-a378-4843-b61c-d5df4f53f15f	Name
-a49b5656-d7d6-4506-a091-1f279c9f52fd	Name
-a1d0186e-2b1a-4f1a-9e5c-b8c110f2b7ed	Name
-a0c066e2-5de0-47e5-b596-69d1c8a2c6f6	Name
-27966077-c556-4ecb-a599-2d47f84b0e80	Name
-492965ad-43fd-4ec3-8408-d4f6c21f6d01	Name
-091273c1-3885-4b3f-8520-fe87005d18ec	Name
-70332d95-f44e-438a-99be-c7b143a9bcb4	Name
-8510ba90-d217-4d1b-9a18-dd7c64455e2a	Name
-5826cab5-5448-46bd-b56f-b5612b7305da	Name
-5058d6b8-71c0-4b56-9c7b-42cddcf4091b	Name
-982b3430-1177-48a1-a05d-70f2b3f88e29	Name
-979a08e9-7494-4827-bbe8-3062fb991449	Name
-914deccf-edfc-405a-8d49-8b5021dc805c	Name
-911e779f-f00f-4ea1-ab76-c002fb355d3b	Name
-773c766e-ad32-4870-a73b-206b80e5bf00	Name
-415be587-763c-4bb3-a619-78ef977a29c8	Name
-392b40fd-233d-4e02-aa81-3484c26030b6	Name
-320c470d-3417-4c9d-8356-2be574b7ad49	Name
-93cd7312-13cd-43b6-947a-8e19dd50bf40	Name
-82c96585-953a-47bb-bbf4-2fdc76a9c242	Name
-77d4f2fc-476f-482c-b3ca-f32945e1e8bc	Name
-72d485fb-0d91-4fab-bc67-aed7ec58cdd4	Name
-67edf4a4-ea5c-44bb-839c-283863b42813	Name
-67ad9642-7a57-4dad-8099-7a19b399fba2	Name
-61a8668c-cde0-4693-8946-df7c43cc7596	Name
-60cf1376-85eb-4341-aa0d-a0ffe8857dbd	Name
-55be57bf-6999-428c-b4a2-6d77dff81add	Name
-36b7934d-eceb-445d-88ef-2c3f559f57b1	Name
-18d72825-4ebc-4efb-b247-4661728c0540	Name
-16d3a630-4cc5-417f-ac9d-cf93cb779d9d	Name
-9d746e17-5d65-4ed1-9639-7fda75ee8ec7	Name
-9b6de450-abf7-4384-bd6a-dad27e19a53f	Name
-8f599482-c859-48e2-9d9a-01fdde63ed37	Name
-7e756655-9c14-4aef-bec2-7b3eb6ddea5a	Name
-7db52923-221f-4b31-ae79-dbe86c922263	Name
-7a128d2c-922a-4395-ad44-a2d3826445e4	Name
-5f901c1c-c923-48e7-9526-7fe7fa00b19f	Name
-4e0816b8-7c5c-4e86-b933-39157ea57d3e	Name
-4cdbcd00-bee5-449d-8776-80eaad3132ca	Name
-2dbbbf73-2c00-4e3f-96e0-f3237509b4d7	Name
-2baae5d7-1794-4e42-a08d-22d13ebcc847	Name
-1de0ae10-d5b7-44d5-95ce-aa43e26909c3	Name
-1b12adaf-96ba-472c-88fe-d0c73f4c5bb0	Name
-00d66034-723a-4917-98aa-8c26630d37f5	Name
+af6ea201-5e10-4de1-b325-3f02ed273354	Locate Mosaic
+ae4e5705-09b9-4715-bc49-8c93d37159d5	Landgate Basemap
+a1d0186e-2b1a-4f1a-9e5c-b8c110f2b7ed	Bathymetry Imagery
+8510ba90-d217-4d1b-9a18-dd7c64455e2a	WA Regional Aerial Photography Mosaic
+911e779f-f00f-4ea1-ab76-c002fb355d3b	Perth4 Aerial Photography Mosaic
+9b6de450-abf7-4384-bd6a-dad27e19a53f	WA Now Mosaic
+2baae5d7-1794-4e42-a08d-22d13ebcc847	Perth2 Aerial Photography Mosaic
