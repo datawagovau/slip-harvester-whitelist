@@ -89,6 +89,8 @@ SLIP_Public_Services/Boundaries
 SLIP_Public_Services/Boundaries_WFS
 SLIP_Public_Services/Buildings_and_Structures
 SLIP_Public_Services/Buildings_and_Structures_WFS
+SLIP_Public_Services/Bush_Fire_Prone_Areas
+SLIP_Public_Services/Bush_Fire_Prone_Areas_FS
 SLIP_Public_Services/Capture_WA
 SLIP_Public_Services/Climate
 SLIP_Public_Services/Defense_WFS
