@@ -113,6 +113,8 @@ SLIP_Public_Services/Bush_Fire_Prone_Areas_FS,open
 SLIP_Public_Services/Capture_WA,open
 SLIP_Public_Services/Defense_WFS,open
 SLIP_Public_Services/Defense,open
+SLIP_Public_Services/Disaster,open
+SLIP_Public_Services/Disaster_FS,open
 SLIP_Public_Services/DMIRS_Imagery_Service,open
 SLIP_Public_Services/DPIRD_Fisheries_Guide_WFS,open
 SLIP_Public_Services/DPIRD_Fisheries_Guide,open
